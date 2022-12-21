@@ -1,1 +1,3 @@
-# Java_
+# Java
+## This repo is all about basic java questions with  its solutions for absolute beginners... 
+
